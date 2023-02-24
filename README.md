@@ -1,3 +1,3 @@
 # Acuerdo de Usuario y Politica de Privacidad OctoConta
 
-## Acuerdo de usuario: [Acuerdo de usuario](acuerdoypolitica/acuerdoUsuario/)
+## Acuerdo de usuario: [Acuerdo de usuario](acuerdoypolitica/acuerdoUsuario.html)
